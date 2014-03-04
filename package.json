@@ -1,0 +1,19 @@
+{
+  "name": "load-images",
+  "description": "preload images for use in games, animations, etc.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/load-images.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "beefy example.js:bundle.js --live"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^3.32.0",
+    "beefy": "^1.1.0",
+    "gameloop": "^0.3.1"
+  }
+}
