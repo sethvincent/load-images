@@ -1,7 +1,7 @@
 {
   "name": "load-images",
   "description": "preload images for use in games, animations, etc.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "git://github.com/sethvincent/load-images.git"
   },
